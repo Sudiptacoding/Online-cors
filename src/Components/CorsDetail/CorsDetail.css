@@ -1,0 +1,28 @@
+.Cdetail-container{
+    margin: 20px;
+    border: 2px solid black;
+    display: flex;
+    padding: 5px;
+
+}
+.Cdetail-container img{
+    height: 300px;
+    width: 300px;
+}
+.User-detail{
+    margin-left: 20px;
+    background-color: #48c4e5;
+    padding: 10px;
+    border-radius: 3px;
+}
+.User-detail p{
+    font-size: 14px;
+    background: linear-gradient(45deg, black, transparent);
+    padding: 5px;
+    color: white;
+    border-radius: 3px;
+}
+.butn{
+    padding: 1px 39px 4px;
+    margin-bottom: 7px;
+}

@@ -1,0 +1,9 @@
+.Card-cons{
+    display: flex;
+    background-color: cyan;
+    margin-bottom: 5px;
+}
+.Card-cons img{
+    width: 98px;
+    padding: 5px;
+}

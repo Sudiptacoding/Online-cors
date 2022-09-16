@@ -1,0 +1,19 @@
+.Card-container{
+    display: flex;
+}
+.card-cors{
+    background: linear-gradient(286deg, black, #ff4dd085);
+    width: 80%;
+    border: 2px solid black;
+    color: #1e003e;
+}
+.Card-container .Cd{
+    text-align: center;
+    background-color: tomato;
+    font-size: 18px;
+    padding: 16px 0px 18px;
+}
+.Cd-box{
+    border: 2px solid black;
+    width: 20%;
+}
